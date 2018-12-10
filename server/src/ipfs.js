@@ -2,7 +2,7 @@ const request = require('request-promise')
 
 function ipfsUrl(hash) {
   //return `https://gateway.ipfs.io/ipfs/${hash}`
-  return `https://ipfsgateway.eth.social/ipfs/${hash}`
+  return `https://ipfsgateway.ethmeet.com/ipfs/${hash}`
 }
 
 async function getJson (ipfsHash) {

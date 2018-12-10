@@ -1,4 +1,4 @@
-let apiUrl = 'https://api.eth.social'
+let apiUrl = 'https://api.ethmeet.com'
 
 if (window.location.hostname === 'localhost') {
   apiUrl = 'http://localhost:8001'

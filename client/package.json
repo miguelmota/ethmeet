@@ -28,8 +28,9 @@
   "devDependencies": {
     "babel-preset-react": "^6.24.1",
     "babelify": "^7.3.0",
+    "browser-sync": "^2.26.3",
     "browserify": "^14.4.0",
     "standard": "^10.0.3",
-    "watchify": "^3.9.0"
+    "watchify": "^3.11.0"
   }
 }

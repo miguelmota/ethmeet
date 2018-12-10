@@ -1,18 +1,18 @@
-# eth.social
+# ethmeet
 
-> An Ethereum dApp for posting social events and meetups.
+> An proof-of-concept Ethereum dApp for posting social events and meetups.
 
-<img src="./screenshots/ethsocial_home.png" width="800">
+<img src="https://user-images.githubusercontent.com/168240/49714547-19ee9380-fc02-11e8-8195-0a738f87c1c8.png" width="800">
 
 On Rinkeby testnet.
 
 # Demo
 
-**[https://eth.social](https://eth.social)**
+**[https://lab.miguelmota.com/ethmeet](https://lab.miguelmota.com/ethmeet)**
 
 # Architecture
 
-<img src="./diagrams/ethsocial-containers-view-v1.png" width="400">
+<img src="https://user-images.githubusercontent.com/168240/49714103-8072b200-fc00-11e8-8c67-a1f9dc926652.png" width="400">
 
 # Development
 

@@ -1,7 +1,7 @@
 const ipfsApi = require('ipfs-api')
 
 const ipfs = ipfsApi({
-  host: 'ipfsapi.eth.social',
+  host: 'ipfsapi.ethmeet.com',
   port: '443',
   protocol: 'https'
 })
@@ -55,7 +55,7 @@ async function getJson (ipfsHash) {
 
 function ipfsUrl(hash) {
   //return `https://gateway.ipfs.io/ipfs/${hash}`
-  return `https://ipfsgateway.eth.social/ipfs/${hash}`
+  return `https://ipfsgateway.ethmeet.com/ipfs/${hash}`
 }
 
 module.exports = {

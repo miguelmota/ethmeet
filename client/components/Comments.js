@@ -3,7 +3,7 @@ const ReactDOM = require('react-dom')
 
 function Comments(props) {
   window.disqus_config = function () {
-    this.page.url = `https://eth.social/meetup/${props.id}`
+    this.page.url = `https://ethmeet.com/meetup/${props.id}`
     this.page.identifier = props.id
   }
 

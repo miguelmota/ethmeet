@@ -12,7 +12,7 @@ class App extends React.Component {
         <div className="column sixteen wide">
           <div className="top ui menu TopMenuFirst">
             <Link to="/" className="item logo">
-              eth<strong>.social</strong>
+              eth<strong>meet</strong>
             </Link>
             <Link to="/meetups" className="item">
               <i className="icon calendar"></i> All Meetups

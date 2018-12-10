@@ -12,7 +12,7 @@ app.use(require('kcors')())
 app.use(serve(__dirname + '/../public'))
 
 app.use(koaSwagger({
-  title: 'eth.social API',
+  title: 'ethmeet API',
   routePrefix: '/v1',
   swaggerOptions: {
     url: 'swagger.yml',

@@ -16,7 +16,7 @@ class Help extends React.Component {
           <p>Install <a href="https://metamask.io/" target="_blank" rel="noopener noreferrer">MetaMask</a> Chrome extension to sign transactions.</p>
 
         <h3>Set Ethereum Provider</h3>
-        <p>Currently eth.social is in a testing and development phase so it's not available in the mainnet yet.</p>
+        <p>Currently ethsocial is in a testing and development phase so it's not available in the mainnet yet.</p>
 
         <p>Set ethereum provider to "<a href="https://rinkeby.etherscan.io/" target="_blank" rel="noopener noreferrer">Rinkeby Test Network</a>".</p>
         <img src="https://gateway.ipfs.io/ipfs/QmWcSbLSXdRtWEDQFve6CJ92j673Ddy9RmuzqRJSKDgBsr" width="300" />
@@ -32,7 +32,7 @@ class Help extends React.Component {
           <div className="ui divider"></div>
         </div>
         <p><a
-            href="https://github.com/coincircle/eth.social/issues/new" target="_blank" rel="noopener noreferrer">
+            href="https://github.com/miguelmota/ethmeet/issues/new" target="_blank" rel="noopener noreferrer">
           Submit Issue / Feature Request
       </a></p>
       </div>
